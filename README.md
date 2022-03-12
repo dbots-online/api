@@ -12,7 +12,7 @@
 
 ## Installation
 *If you have trouble with the installation, please feel free to visit our [discord](https://dbots.online/dc) address.*
-- `npm i bhbotlist.js`
+- `npm i dbots.online`
 
 # Define Module & Client
 ```js
